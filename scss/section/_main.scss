@@ -1,0 +1,13 @@
+.titulos-main {
+    text-align: center;
+}
+
+.productos-destacados {
+    display: flex;
+    justify-content: space-evenly;
+    div {
+        background-color: rgb(145, 229, 229);
+        width: 200px;
+        height: 200px;
+    }
+}

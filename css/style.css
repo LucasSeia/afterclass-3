@@ -29,3 +29,14 @@
     backdrop-filter: blur(10px);
     padding: 30px;
     text-align: center; }
+
+.titulos-main {
+  text-align: center; }
+
+.productos-destacados {
+  display: flex;
+  justify-content: space-evenly; }
+  .productos-destacados div {
+    background-color: #91e5e5;
+    width: 200px;
+    height: 200px; }
